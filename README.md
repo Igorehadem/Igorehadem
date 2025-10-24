@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hey, I'm Igor
 
-<!--
-**Igorehadem/Igorehadem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎙️ Voice actor & onchain builder  
+Exploring the intersection of creative work, smart contracts, and Farcaster social apps.
 
-Here are some ideas to get you started:
+### 🧱 Current Focus
+- Building Farcaster Bot Core & Remix integrations  
+- Experimenting with Base smart contracts  
+- Writing progress logs in [Builder Journal](https://github.com/Igorehadem/builder-journal)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🪩 Onchain Footprint
+- Verified contract on Base Mainnet → [BaseToken](https://basescan.org/address/0xc419F1db048B08671c1CA40D4Ac66EaAf452b20a#code)
+- Active open-source repos: `Base`, `Farcaster`, `Safety Tools`
+
+### 🧠 Side Interests
+AI tools for narration • Web3 education • Digital identity

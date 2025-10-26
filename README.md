@@ -41,7 +41,3 @@ Exploring how creativity meets code — through Base, Farcaster, and open-source
 - [Base](https://base.org/)  
 - [Farcaster](https://warpcast.com/)  
 - [Talent Protocol](https://app.talentprotocol.com/)  
-
----
-
-⭐ _Always open for collaborations on Base and Farcaster projects._  

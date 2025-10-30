@@ -20,10 +20,10 @@ Exploring how creativity meets code — through **Base**, **Farcaster**, and ope
 | Contract | Address | Network | Status |
 |-----------|----------|----------|---------|
 | **BaseToken** | [`0xc419F1db048B08671c1CA40D4Ac66EaAf452b20a`](https://basescan.org/address/0xc419F1db048B08671c1CA40D4Ac66EaAf452b20a#code) | **Base Mainnet** | 🟢 Verified |
-| Ping | [`0x2fc45bf8b1ef796868413443db906f200b48efc6`](https://basescan.org/address/0x2fc45bf8b1ef796868413443db906f200b48efc6#code) | Base | ✅ Verified |
-| Greeter | [`0x9a72b1bb3e697a940312194a1cc513b63202248b`](https://basescan.org/address/0x9a72b1bb3e697a940312194a1cc513b63202248b#code) | Base | ✅ Verified |
-| TinyStorage | [`0xb830621f455a71d5c1fe71033a7cb2c2485a3427`](https://basescan.org/address/0xb830621f455a71d5c1fe71033a7cb2c2485a3427#code) | Base | ✅ Verified |
-| Counter | [`0x5fe01e214aa4868aba4c6ddfcd67aeab8b822e0d`](https://basescan.org/address/0x5fe01e214aa4868aba4c6ddfcd67aeab8b822e0d#code) | Base | ✅ Verified |
+| Ping | [`0x2fc45bf8b1ef796868413443db906f200b48efc6`](https://basescan.org/address/0x2fc45bf8b1ef796868413443db906f200b48efc6#code) | **Base Mainnet**  | ✅ Verified |
+| Greeter | [`0x9a72b1bb3e697a940312194a1cc513b63202248b`](https://basescan.org/address/0x9a72b1bb3e697a940312194a1cc513b63202248b#code) | **Base Mainnet**  | ✅ Verified |
+| TinyStorage | [`0xb830621f455a71d5c1fe71033a7cb2c2485a3427`](https://basescan.org/address/0xb830621f455a71d5c1fe71033a7cb2c2485a3427#code) | **Base Mainnet**  | ✅ Verified |
+| Counter | [`0x5fe01e214aa4868aba4c6ddfcd67aeab8b822e0d`](https://basescan.org/address/0x5fe01e214aa4868aba4c6ddfcd67aeab8b822e0d#code) | **Base Mainnet**  | ✅ Verified |
 
 ---
 

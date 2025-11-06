@@ -5,41 +5,6 @@ Exploring how creativity meets code — through **Base**, **Farcaster**, and ope
 
 ---
 
-## 🚀 Builder Dashboard
-
-| 🔧 Project | 🧩 Description | ⚙️ Status |
-|-------------|----------------|------------|
-| **Farcaster Frame Demo** | Predictive onchain Frame built on Base + Vercel | 🟢 Live on [igoreha.online](https://igoreha.online) |
-| **Farcaster Bot Core** | Node/TS bot for automated casts via Neynar API | 🧱 Next: production signer & PNG posts |
-| **Remix Mini Contracts** | 4 verified demo contracts on Base | ✅ Verified on [BaseScan](https://basescan.org/address/0x5fe01e214aa4868aba4c6ddfcd67aeab8b822e0d#code) |
-| **Onchain Safety Checklist** | Research repo for secure Solidity patterns | ⚡ In progress |
-| **Builder Journal** | Tracking milestones & Base/Farcaster experiments | 🪩 Updated weekly |
-
----
-
-## 🌌 Farcaster Frame Demo
-
-A minimal **Warpcast Frame** that triggers a live transaction on **Base Mainnet**.  
-Built with **Next.js 14** and **@vercel/og**.
-
-**Features**
-- Dynamic OG image generation (`/api/og`)
-- Onchain transaction flow (`/api/tx`)
-- Edge runtime for instant responses
-- Zero secrets — public, forkable repo  
-- Deployed via Vercel to: [`https://igoreha.online/api/frame`](https://igoreha.online/api/frame)
-
----
-
-## 🧩 Verified Contracts on Base Mainnet
-
-| Contract | Address | Network | Badges |
-|-----------|----------|----------|---------|
-| **BaseToken** | [`0xc419F1db048B08671c1CA40D4Ac66EaAf452b20a`](https://basescan.org/address/0xc419F1db048B08671c1CA40D4Ac66EaAf452b20a#code) | Base Mainnet | ![mainnet][badge-base-mainnet] ![sol][badge-sol-0824] ![mit][badge-license-mit] |
-| **Ping** | [`0x2fc45bf8b1ef796868413443db906f200b48efc6`](https://basescan.org/address/0x2fc45bf8b1ef796868413443db906f200b48efc6#code) | Base Mainnet | ![mainnet][badge-base-mainnet] ![sol][badge-sol-0824] ![mit][badge-license-mit] |
-| **Greeter** | [`0x9a72b1bb3e697a940312194a1cc513b63202248b`](https://basescan.org/address/0x9a72b1bb3e697a940312194a1cc513b63202248b#code) | Base Mainnet | ![mainnet][badge-base-mainnet] ![sol][badge-sol-0824] ![mit][badge-license-mit] |
-| **TinyStorage** | [`0xb830621f455a71d5c1fe71033a7cb2c2485a3427`](https://basescan.org/address/0xb830621f455a71d5c1fe71033a7cb2c2485a3427#code) | Base Mainnet | ![mainnet][badge-base-mainnet] ![sol][badge-sol-0824] ![mit][badge-license-mit] |
-| **Counter** | [`0x5fe01e214aa4868aba4c6ddfcd67aeab8b822e0d`](https://basescan.org/address/0x5fe01e214aa4868aba4c6ddfcd67aeab8b822e0d#code) | Base Mainnet | ![mainnet][badge-base-mainnet] ![sol][badge-sol-0824] ![mit][badge-license-mit] |
 
 ---
 
